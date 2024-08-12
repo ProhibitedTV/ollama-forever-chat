@@ -1,0 +1,11 @@
+# Ollama API client library
+ollama
+
+# Text-to-Speech library
+pyttsx3
+
+# HTTP library for making requests to the API
+requests
+
+# Library for working with images
+Pillow
